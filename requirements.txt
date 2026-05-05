@@ -1,0 +1,6 @@
+streamlit
+google-genai
+anthropic
+openai
+pandas
+tabulate
